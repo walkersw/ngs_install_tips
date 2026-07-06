@@ -16,6 +16,7 @@ USAGE
 
 2. These instructions are based on using the WSL system under Windows.
 
+3. The Wiki is here:  https://github.com/walkersw/ngs_install_tips/wiki
 
 COMPATIBILITY NOTES
 ========================================================================
